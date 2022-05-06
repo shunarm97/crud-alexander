@@ -87,8 +87,8 @@ function App() {
         <h1>REGISTROS DE USUARIOS</h1>
         <div className='gird'>
           <div className='saved'>
-          <h2>REGISTROS YA GUARDADOS</h2>
-          {list}
+            <h2>REGISTROS YA GUARDADOS</h2>
+            {list}
           </div>
           <div className='handling'>
             <h2>CREAR USUARIO NUEVO</h2>
